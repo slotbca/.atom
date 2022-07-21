@@ -1,0 +1,47 @@
+{
+  "_from": "https://www.atom.io/api/packages/slot-4d/versions/1.0.2/tarball",
+  "_id": "slot-4d@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-TtmbXNmEssV/JZjVqRxzIes6FOwHfxg+L3bGzYSEfIORRXpJcbhOLWMtb7dIHcvW6tbpLwEKvhw51rMWt/mFdw==",
+  "_location": "/slot-4d",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/slot-4d/versions/1.0.2/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/slot-4d/versions/1.0.2/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/slot-4d/versions/1.0.2/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/slot-4d/versions/1.0.2/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/slot-4d/versions/1.0.2/tarball",
+  "_shasum": "adf0ea2e792362c70ca6354eb235b769a12284ef",
+  "_spec": "https://www.atom.io/api/packages/slot-4d/versions/1.0.2/tarball",
+  "_where": "C:\\Users\\HP\\AppData\\Local\\Temp\\apm-install-dir-2022523-16320-1flpdxd.l54d",
+  "bugs": {
+    "url": "https://github.com/B-Eagle/slot-4d/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Slot 4d",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/B-Eagle/slot-4d#readme",
+  "keywords": [
+    "slot",
+    "gacor",
+    "slot 4d",
+    "4d"
+  ],
+  "license": "MIT",
+  "name": "slot-4d",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B-Eagle/slot-4d.git"
+  },
+  "theme": "ui",
+  "version": "1.0.2"
+}

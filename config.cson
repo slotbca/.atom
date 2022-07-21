@@ -1,0 +1,16 @@
+"*":
+  core:
+    disabledPackages: [
+      "autocomplete-plus"
+      "autocomplete-css"
+    ]
+    telemetryConsent: "no"
+    themes: [
+      "atom-light-ui"
+      "solarized-light-syntax"
+    ]
+  "exception-reporting":
+    userId: "799a03e3-c6f5-4639-9ec2-f018f04a0f22"
+  github: {}
+  welcome:
+    showOnStartup: false
